@@ -1,33 +1,32 @@
 *{
+  color: #004466;
   background-color: #D2E4C4;
   font-size: 16px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-p{
-  color: #004466;
-  background-color: #D2E4C4;
+h1, h2, h3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2, h3{
+  color: #9A275A;
 }
 
 h1{
   color: #3c3c3c;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 32px;
 }
 
 h2{
-  color: #9A275A;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 24px;
 }
 
 h3{
-  color: #9A275A;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
 }
 
-ul{
+ul li{
 color: #D24B88;
 }
 
@@ -41,9 +40,7 @@ color: #D24B88;
   font-weight: bold;
 }
 
-.negretacursiva{
-  color: black;
-  font-weight: bold;
+.cursiva{
   font-style: italic;
 }
 
